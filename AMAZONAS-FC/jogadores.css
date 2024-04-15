@@ -1,0 +1,150 @@
+body{
+    background-color: transparent;
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url("img/AMAZONAS\ FC\ \(3\).png");
+    background-repeat: repeat;
+    background-size: 100%;
+  
+}
+.img_jogador{
+    width: 33px;
+    height: 33px;
+}
+table{
+    padding: 0; 
+    color: rgb(251, 187,0)  ;
+    padding-top: center;
+    padding-bottom: center;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+    background-color: black;
+}
+th{
+    background-color: rgba(33, 33, 209, 0.521);
+}
+.section2{
+    width: 200px;
+    height: 200px;
+}
+
+header{
+    background-color: rgb(251, 187,0);
+    height: 60px;
+    font-family: var(--tm-tertiary-font, 'OSB', 'OSB-fallback', sans-serif);
+    border-radius: 30px;
+    
+    
+   
+    
+}
+img{
+    width: 25px;
+    height: 17px;
+}
+section{
+    background-color: rgba(0, 0, 0, 0.8);
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 30px ;
+   
+    
+
+   
+}
+a {  		
+    text-decoration:none;    	
+    color: black;
+}  
+
+
+ul{
+    list-style: none;
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+    vertical-align: baseline;
+    
+}
+li{
+    display: inline;
+    
+
+}
+.logo{
+    background-color: transparent;
+    padding-top: center;
+    padding-bottom: center;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    
+}
+
+.img_logo{
+    
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 5px;
+    
+}
+
+.itens_menu{ 
+    color:black;
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+  }
+  
+  .itens_menu{
+    display: inline;
+  }
+
+
+
+
+nav{
+    background-color: transparent;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+}
+
+
+
+
+
+footer{
+    background-color: transparent;
+    border: 20px;
+}
+
+p {
+    color: white;
+    font-size: 25px;
+    font-size: 1.4em;
+    color: #fff;
+    
+    font-family: ABeeZee;
+    text-align: center;
+    
+    background-color: transparent;
+    margin-top: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+   
+
+    
+    
+    
+   
+}
+.text{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
