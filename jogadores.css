@@ -19,6 +19,7 @@ table{
     margin-left: 450px;
     margin-right: 350px;
     background-color: black;
+    font-family: "Open Sans", sans-serif;
 }
 th{
     background-color: rgba(33, 33, 209, 0.521);

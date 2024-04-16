@@ -28,6 +28,7 @@ section{
     margin-left: 160px;
     margin-right: 150px;
     border-radius: 30px ;
+    margin-top: 70px;
    
     
 
@@ -47,7 +48,7 @@ h1{
     text-align: center;
     
     background-color: transparent;
-    margin-top: 10px;
+    
     margin-left: 150px;
     margin-right: 150px;
 
@@ -97,7 +98,9 @@ li{
     display: inline;
   }
 
-
+  h1{
+    font-family: "Roboto", sans-serif;
+    }
 
 
 nav{
@@ -123,7 +126,7 @@ p {
     font-size: 1.4em;
     color: #fff;
     
-    font-family: ABeeZee;
+    font-family: "Open Sans", sans-serif;
     text-align: center;
     
     background-color: transparent;
