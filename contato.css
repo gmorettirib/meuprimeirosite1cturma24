@@ -11,7 +11,9 @@ body{
     height: 200px;
 }
 
-
+h2{
+    font-family: "Roboto", sans-serif;
+}
 header{
     background-color: rgb(251, 187,0);
     height: 60px;
@@ -133,7 +135,7 @@ p {
     
     color: #fff;
     
-    font-family: ABeeZee;
+    font-family: "Open Sans", sans-serif;
     text-align: center;
     
     background-color: transparent;
