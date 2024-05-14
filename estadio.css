@@ -148,3 +148,26 @@ p {
     margin-right: 100px;
     
 }
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(34, 30, 31);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: rgb(251, 187,0);
+    background-color: transparent;
+    text-decoration: underline;
+  }
